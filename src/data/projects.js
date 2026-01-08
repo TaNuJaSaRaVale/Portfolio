@@ -23,7 +23,7 @@ export const projects = [
       "Full-Stack",
       "Analytics",
     ],
-    liveLink: "https://expense-tracker-1869c.web.app/dashboard"
+    liveLink: "https://expense-tracker-1869c.web.app/"
 
   },
   {
